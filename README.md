@@ -38,3 +38,6 @@ $ python label_image.py data/train/sunset/2018-02-10-02-01-34_thumb.jpg
 sunset (score = 0.99617)
 notsunset (score = 0.00383)
 ```
+
+## Acknowledgment
+Forked shamelessly from https://github.com/hayzamjs/Hotdog-Classification
